@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = B48NJV8578;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "3dModelCreation_r&d/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app uses the camera to allow users to take pictures.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -180,6 +181,7 @@
 				DEVELOPMENT_TEAM = B48NJV8578;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "3dModelCreation_r&d/Info.plist";
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app uses the camera to allow users to take pictures.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
